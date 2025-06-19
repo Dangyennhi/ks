@@ -33,4 +33,10 @@ Hiển thị kết quả: Kết quả ký và xác thực sẽ hiển thị tr�
   Giao diện	HTML, CSS, JavaScript
   4. Giao diện 
   ![image](https://github.com/user-attachments/assets/a220643e-e5a3-4055-b789-90e408cbeba9)
-  Giao diện xác thực ký số 
+                           Giao diện xác thực ký số
+  ![image](https://github.com/user-attachments/assets/e6682182-e8d1-44a4-a4eb-7d80bd0f265f)
+                          Ký số thành công 
+  ![image](https://github.com/user-attachments/assets/49eb4a1b-c5fd-41f2-b6c4-67e9abf2a8c3)
+                          Xác thực thành công
+
+
